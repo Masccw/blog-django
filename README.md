@@ -1,6 +1,6 @@
 # Blog Django Girls
 
-Projeto de blog simples desenvolvido com Django, seguindo o tutorial oficial do Django Girls.
+Projeto de blog desenvolvido com Django, seguindo o tutorial oficial do Django Girls.
 
 ## Tecnologias
 - Python
